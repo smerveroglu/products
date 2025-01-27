@@ -24,6 +24,27 @@ Then run the app in production mode:
 npm start
 ```
 
+## Test
+
+```sh
+npm run test
+```
+
+## Prettier
+
+```sh
+npm run prettier:check
+npm run prettier:write
+
+```
+
+## Typecheck
+
+```sh
+ npm run typecheck
+
+```
+
 Now you'll need to pick a host to deploy it to.
 
 ### DIY
