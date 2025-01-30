@@ -1,8 +1,6 @@
 import { ProductDetail } from "app/types/productDetail";
 
 export default function Product({ product }: { product: ProductDetail }) {
-  console.log(product);
-
   const totalStars = 5;
 
   return (
